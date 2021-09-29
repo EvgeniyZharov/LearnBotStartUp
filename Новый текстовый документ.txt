@@ -1,0 +1,28 @@
+{
+  [
+    {
+      userID: id,
+      statusTask: None,
+    },
+    {
+      userID: id,
+      statusTask: None,
+    },
+    {
+      userID: id,
+      statusTask: None,
+    }
+  ]
+}
+
+{
+  userID: {
+            taskStatus: status,
+          }
+  userID: {
+            taskStatus: status,
+          }
+  userID: {
+            taskStatus: status,
+          }
+}
